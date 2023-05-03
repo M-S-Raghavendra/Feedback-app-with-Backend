@@ -228,3 +228,10 @@ input:focus {
     width: 80%;
   }
 }
+
+.spinner {
+  width: 100px;
+  margin: auto;
+  margin-top: 60px;
+  display: block;
+}
